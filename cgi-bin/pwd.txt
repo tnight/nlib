@@ -1,0 +1,6 @@
+queenofgeek@hotmail.com	foobar	Jo	Nightingale	admin
+brandy@pepsi.com	pepsi	Brandy	Unix Guru	admin
+sam@spade.com	samspade	Sam	Spade	notadmin
+john@doe.com	johndoe	John	Doe	notadmin
+jane@doe.com	janedoe	Jane	Doe	notadmin
+foo@bar.com	foobar	Foo	Bar	notadmin

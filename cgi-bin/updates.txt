@@ -1,0 +1,10 @@
+tnight@pobox.com	bar2.txt
+tnight@pobox.com	bar2.txt
+tnight@pobox.com	foo1.txt
+sam@spade.com	foo1.txt
+jane@doe.com	bar2.txt
+jane@doe.com	foo1.txt
+sam@spade.com	alphafile.txt
+sam@spade.com	alphafile.txt
+sam@spade.com	colors.txt
+sam@spade.com	alphafile.txt
